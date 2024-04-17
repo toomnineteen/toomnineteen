@@ -5,6 +5,20 @@
 
 <hr>
 
+<div>
+  <p>language and tools</p>
+  - 😄 html
+  - 😄 css
+  - 😄 javascript
+  - 😄 react.js
+  - 😄 next.js
+  - 😄 bootstrap
+  - 😄 tailwind css
+  - 😄 mongodb
+</div>
+
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toomnineteen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
