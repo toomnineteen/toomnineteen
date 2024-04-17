@@ -6,19 +6,15 @@
 <hr>
 
 <div>
-  <p>language and tools</p>
-  <p>language and tools</p>
-  <p>language and tools</p>
-  <p>language and tools</p>
-  <p>language and tools</p>
-  - 😄 html
-  - 😄 css
-  - 😄 javascript
-  - 😄 react.js
-  - 😄 next.js
-  - 😄 bootstrap
-  - 😄 tailwind css
-  - 😄 mongodb
+  <p>📖 language and tools</p>
+  <p>  - 😄 html</p>
+  <p>  - 😄 css</p>
+  <p>  - 😄 javascript</p>
+  <p>  - 😄 react.js</p>
+  <p>  - 😄 next.js</p>
+  <p>  - 😄 bootstrap</p>
+  <p>  - 😄 tailwind css</p>
+  <p>  - 😄 mongodb</p>
 </div>
 
 <hr>
