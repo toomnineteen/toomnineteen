@@ -1,6 +1,6 @@
 <div>
-  <h1>Hi I'm TOOM👋</h1>
-  <h2>Web Developers</h2>
+  <p>Hi I'm TOOM👋</p>
+  <p>Web Developers</p>
 </div>
 
 <hr>
