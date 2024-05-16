@@ -6,7 +6,7 @@
 <hr>
 
 <div>
-  <p>📖 language and tools</p>
+  <p>📖 : 🔨 language and tools</p>
   <p>  - 😄 html</p>
   <p>  - 😄 css</p>
   <p>  - 😄 javascript</p>
