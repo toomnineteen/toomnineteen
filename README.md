@@ -1,6 +1,6 @@
 <div>
-  <h1>Hi there 👋</h1>
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600" height="300"/>
+  <h1>Hi I'm TOOM👋</h1>
+  <h2>Web Developers</h2>
 </div>
 
 <hr>
