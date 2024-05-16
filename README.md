@@ -15,6 +15,7 @@
   <p>  - 😄 bootstrap</p>
   <p>  - 😄 tailwind css</p>
   <p>  - 😄 mongodb</p>
+  <p>  - 😄 node js express</p>
 </div>
 
 <hr>
