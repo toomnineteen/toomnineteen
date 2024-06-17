@@ -1,19 +1,16 @@
 <div>
   <p>Hi I'm TOOM👋</p>
-  <p>Web Developers</p>
+  <p>Website Developers</p>
 </div>
 
 <hr>
 
 <div>
   <p>📖 : 🔨 language and tools</p>
-  <p>  - 😄 html</p>
-  <p>  - 😄 css</p>
-  <p>  - 😄 javascript</p>
+  <p>  - 😄 html ,css , javascript</p>
   <p>  - 😄 react.js</p>
   <p>  - 😄 next.js</p>
-  <p>  - 😄 bootstrap</p>
-  <p>  - 😄 tailwind css</p>
+  <p>  - 😄 bootstrap , tailwind css</p>
   <p>  - 😄 mongodb</p>
   <p>  - 😄 node js express</p>
 </div>
