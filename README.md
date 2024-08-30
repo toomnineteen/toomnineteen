@@ -7,12 +7,11 @@
 
 <div>
   <p> 🔨 language and tools</p>
-  <p>  - 😄 html ,css , javascript</p>
+  <p>  - 😄 javascript, html, css, bootstrap , tailwind</p>
   <p>  - 😄 react.js</p>
   <p>  - 😄 next.js</p>
-  <p>  - 😄 bootstrap , tailwind css</p>
-  <p>  - 😄 mongodb</p>
   <p>  - 😄 node js express</p>
+  <p>  - 😄 mongodb</p>
 </div>
 
 <hr>
