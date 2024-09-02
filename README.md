@@ -21,11 +21,12 @@
 
 <div>
   <p> 🔨 language and tools</p>
-  <p>  - 😄 javascript, html, css, bootstrap , tailwind</p>
+  <p>  - 😄 javascript, html, css, bootstrap , tailwind css</p>
   <p>  - 😄 react.js</p>
   <p>  - 😄 next.js</p>
   <p>  - 😄 node js express</p>
   <p>  - 😄 mongodb</p>
+  <p>  - 😄 chat GPT</p>
 </div>
 
 <hr>
