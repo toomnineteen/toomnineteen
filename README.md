@@ -6,6 +6,7 @@
 <hr>
 
 <div>
+  <p>Project</p>
   <a href="https://toomdev-tshirt-wb-ui.netlify.app/" target="_blank">- Visit T Shitr shop</a> <br>
   <a href="https://toomdev-todolist.netlify.app/" target="_blank">- Visit Todolist</a> <br>
   <a href="https://toomdev-ecommerce-ui.netlify.app/" target="_blank">- Visti UI Shopping</a> <br>
