@@ -8,7 +8,7 @@
 <div>
   <p>Project</p>
   <a href="https://toomdev-tshirt-wb-ui.netlify.app/" target="_blank">- Visit T Shitr shop</a> <br>
-  <a href="https://toomdev-todolist.netlify.app/" target="_blank">- Visit Todolist</a> <br>
+  <a href="https://toomdev-todolist.netlify.app/" target="_blank">- Visit Todolist mockup api</a> <br>
   <a href="https://toomdev-ecommerce-ui.netlify.app/" target="_blank">- Visti UI Shopping</a> <br>
   <a href="https://toomdev-ui-travel.netlify.app/" target="_blank">- Visit UI Travel</a> <br>
   <a href="https://toomdev-ui-smart-watch.netlify.app/" target="_blank">- Visit UI Smart watch</a> <br>
