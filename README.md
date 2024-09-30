@@ -7,7 +7,7 @@
 
 <div>
   <p>Project</p>
-    <a href="https://register-login-reactjs.netlify.app/" target="_blank">- Visit System Register and Login</a> <br><br>
+    <a href="https://register-login-reactjs.netlify.app/" target="_blank">-System user register and login</a> <br><br>
 
   <a href="https://toomdev-tshirt-wb-ui.netlify.app/" target="_blank">- Visit T Shitr shop</a> <br>
   <a href="https://toomdev-todolist.netlify.app/" target="_blank">- Visit Todolist mockup api</a> <br>
