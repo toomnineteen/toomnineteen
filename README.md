@@ -15,8 +15,8 @@
   <a href="https://toomdev-ui-smart-watch.netlify.app/" target="_blank">- Visit UI Smart watch</a> <br>
   <a href="https://toomdev-example-youtubeclone.netlify.app/" target="_blank">- Visit YouTube clone</a> <br>
   <a href="https://toomdev-example-cat-coffee.netlify.app/" target="_blank">- Visit Example shop</a> <br>
-  <a href="https://toomdev-portfolio-template-v2.netlify.app/" target="_blank">- Visit Portfolio 1</a> <br>
-  <a href="https://toomdev-portfolio-template-v1.netlify.app/" target="_blank">- Visit Portfolio 2</a> <br>
+  <a href="https://toomdev-portfolio-template-v2.netlify.app/" target="_blank">- Visit template portfolio 1</a> <br>
+  <a href="https://toomdev-portfolio-template-v1.netlify.app/" target="_blank">- Visit template portfolio 2</a> <br>
 </div>
 
 <hr>
