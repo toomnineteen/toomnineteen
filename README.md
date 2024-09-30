@@ -22,10 +22,12 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,bootstrap,tailwindcss)](https://skillicons.dev)
+  <p> 🔨 language and tools</p>
+
+
+(https://skillicons.dev/icons?i=js,html,css,javascript,bootstrap,tailwindcss)
 
 <div>
-  <p> 🔨 language and tools</p>
   <p>  - 😄 javascript, html, css, bootstrap , tailwind css</p>
   <p>  - 😄 react.js</p>
   <p>  - 😄 next.js</p>
