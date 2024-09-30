@@ -24,7 +24,8 @@
 
   <p> 🔨 language and tools</p>
 
-[![My Skills(https://skillicons.dev/icons?i=js,html,css,javascript,bootstrap,tailwindcss)]
+[![My Skills(https://skillicons.dev/icons?i=js,html,css,javascript,bootstrap,tailwindcss)](https://skillicons.dev)
+
 
 
 <div>
