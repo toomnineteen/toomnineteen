@@ -34,7 +34,8 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss" />
   </a>
-      <a href="">
+  <br/>
+  <a href="">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,npm" />
   </a>
 </p>
