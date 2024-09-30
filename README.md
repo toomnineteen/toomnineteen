@@ -33,7 +33,7 @@
   <br/>
   
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,express"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql"/>
   </a>
   
   <br/>
