@@ -30,8 +30,8 @@
   <p>  - 😄 node js express</p>
   <p>  - 😄 mongodb</p>
   <p>  - 😄 chat GPT</p>
-  <p align="center">
-  <a href="https://skillicons.dev">
+  <p align="left">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss" />
   </a>
 </p>
