@@ -22,7 +22,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,bootstrap,tailwindcss)](https://skillicons.dev)
 
 <div>
   <p> 🔨 language and tools</p>
