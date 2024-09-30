@@ -23,17 +23,25 @@
 <hr>
 
 <div>
+  
   <p align="left">
+    
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind"/>
   </a>
+  
   <br/>
+  
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,express" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,express"/>
   </a>
+  
   <br/>
+  
   <a href="">
-    <img src="https://skillicons.dev/icons?i=npm,vscode,vite,vercel,postman	" />
+    <img src="https://skillicons.dev/icons?i=npm,vscode,vite,vercel,postman"/>
   </a>
+  
 </p>
+  
 </div>
