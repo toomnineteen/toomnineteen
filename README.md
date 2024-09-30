@@ -22,19 +22,19 @@
 
 <hr>
 
-
-[![My Skills(https://skillicons.dev/icons?i=js,html,css,javascript,bootstrap,tailwindcss)](https://skillicons.dev)
-
-
-
 <div>
-    <p> 🔨 language and tools</p>
+  <p> 🔨 language and tools</p>
   <p>  - 😄 javascript, html, css, bootstrap , tailwind css</p>
   <p>  - 😄 react.js</p>
   <p>  - 😄 next.js</p>
   <p>  - 😄 node js express</p>
   <p>  - 😄 mongodb</p>
   <p>  - 😄 chat GPT</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss" />
+  </a>
+</p>
 </div>
 
 <hr>
