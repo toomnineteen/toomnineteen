@@ -22,6 +22,8 @@
 
 <hr>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <div>
   <p> 🔨 language and tools</p>
   <p>  - 😄 javascript, html, css, bootstrap , tailwind css</p>
@@ -30,7 +32,6 @@
   <p>  - 😄 node js express</p>
   <p>  - 😄 mongodb</p>
   <p>  - 😄 chat GPT</p>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
 <hr>
