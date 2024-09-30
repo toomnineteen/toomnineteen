@@ -23,28 +23,17 @@
 <hr>
 
 <div>
-  <p> 🔨 language and tools</p>
-  <p>  - 😄 javascript, html, css, bootstrap , tailwind css</p>
-  <p>  - 😄 react.js</p>
-  <p>  - 😄 next.js</p>
-  <p>  - 😄 node js express</p>
-  <p>  - 😄 mongodb</p>
-  <p>  - 😄 chat GPT</p>
   <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
   </a>
   <br/>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,npm" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,express" />
+  </a>
+  <br/>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=npm,vscode,vite,vercel,postman	" />
   </a>
 </p>
 </div>
-
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toomnineteen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<div></div>
