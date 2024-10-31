@@ -7,16 +7,16 @@
 
 <div>
   <p>Project</p>
-  <a href="https://register-login-reactjs.netlify.app/" target="_blank">-System user register and login</a> <br>
-  <a href="https://toomdev-tshirt-wb-ui.netlify.app/" target="_blank">- Visit T Shitr shop</a> <br>
-  <a href="https://toomdev-todolist.netlify.app/" target="_blank">- Visit Todolist mockup api</a> <br>
-  <a href="https://toomdev-ecommerce-ui.netlify.app/" target="_blank">- Visti UI Shopping</a> <br>
-  <a href="https://toomdev-ui-travel.netlify.app/" target="_blank">- Visit UI Travel</a> <br>
-  <a href="https://toomdev-ui-smart-watch.netlify.app/" target="_blank">- Visit UI Smart watch</a> <br>
-  <a href="https://toomdev-example-youtubeclone.netlify.app/" target="_blank">- Visit YouTube clone</a> <br>
-  <a href="https://toomdev-example-cat-coffee.netlify.app/" target="_blank">- Visit Example shop</a> <br>
-  <a href="https://toomdev-portfolio-template-v2.netlify.app/" target="_blank">- Visit template portfolio 1</a> <br>
-  <a href="https://toomdev-portfolio-template-v1.netlify.app/" target="_blank">- Visit template portfolio 2</a> <br>
+  <a href="https://register-login-reactjs.netlify.app/" target="_blank">- System user register and login</a>
+  <a href="https://toomdev-tshirt-wb-ui.netlify.app/" target="_blank">- T Shitr shop</a> <br>
+  <a href="https://toomdev-todolist.netlify.app/" target="_blank">- Todolist mockup api</a> <br>
+  <a href="https://toomdev-ecommerce-ui.netlify.app/" target="_blank">- UI Shopping</a> <br>
+  <a href="https://toomdev-ui-travel.netlify.app/" target="_blank">- UI Travel</a> <br>
+  <a href="https://toomdev-ui-smart-watch.netlify.app/" target="_blank">- UI Smart watch</a> <br>
+  <a href="https://toomdev-example-youtubeclone.netlify.app/" target="_blank">- YouTube clone</a> <br>
+  <a href="https://toomdev-example-cat-coffee.netlify.app/" target="_blank">- Example shop</a> <br>
+  <a href="https://toomdev-portfolio-template-v2.netlify.app/" target="_blank">- Template portfolio 1</a> <br>
+  <a href="https://toomdev-portfolio-template-v1.netlify.app/" target="_blank">- Template portfolio 2</a> <br>
 </div>
 
 <hr>
