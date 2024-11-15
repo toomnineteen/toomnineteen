@@ -7,9 +7,8 @@
 
 <div>
   <p>Project</p>
-  <a href="https://online-pet-shop.netlify.app/" target="_blank">- ร้านค้าอาหารสัตว์เลี้ยง (UI)</a> <br>
-  <a href="https://register-login-reactjs.netlify.app/" target="_blank">- System user register and login</a> <br>
-  <a href="https://toomdev-tshirt-wb-ui.netlify.app/" target="_blank">- T Shitr shop</a> <br>
+  <a href="https://online-pet-shop.netlify.app/" target="_blank">- ร้านค้าอาหารสัตว์เลี้ยง (Frontend ReactJS - UI Only)</a> <br>
+  <a href="https://register-login-reactjs.netlify.app/" target="_blank">- ระบบสมัครสมาชิก และล็อกอิน (Frontend ReactJS - Backend MongoDB)</a> <br>
   <a href="https://toomdev-todolist.netlify.app/" target="_blank">- Todolist mockup api</a> <br>
   <a href="https://toomdev-ecommerce-ui.netlify.app/" target="_blank">- UI Shopping</a> <br>
   <a href="https://toomdev-ui-travel.netlify.app/" target="_blank">- UI Travel</a> <br>
