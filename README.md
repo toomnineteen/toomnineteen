@@ -7,6 +7,7 @@
 
 <div>
   <p>Project</p>
+  <a href="https://online-pet-shop.netlify.app/" target="_blank">- ร้านค้าอาหารสัตว์เลี้ยง (UI)</a> <br>
   <a href="https://register-login-reactjs.netlify.app/" target="_blank">- System user register and login</a> <br>
   <a href="https://toomdev-tshirt-wb-ui.netlify.app/" target="_blank">- T Shitr shop</a> <br>
   <a href="https://toomdev-todolist.netlify.app/" target="_blank">- Todolist mockup api</a> <br>
