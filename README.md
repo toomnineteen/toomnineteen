@@ -1,6 +1,6 @@
 <div>
   <p>Hi I'm TOOM👋</p>
-  <p>Website Developers</p>
+  <p>Full Stack Developer</p>
 </div>
 
 <hr>
